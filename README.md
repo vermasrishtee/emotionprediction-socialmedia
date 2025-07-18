@@ -14,14 +14,14 @@ This project explores whether emotional states can be predicted using only **beh
 - Behavior-based ML can potentially support ethical emotion-aware systems
 
 ## Files Included
-- `emotion_model.ipynb`: Full code for model building, evaluation, and visualization
-- `confusion_matrix.jpeg`: Visual performance of best model
-- `Beyond_Posts_and_Likes.pdf`: Final research paper (optional)
+- `train.csv`: Complete Dataset with 1000 users data from [Data Source]((https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being?phase=FinishSSORegistration&returnUrl=%2Fdatasets%2Femirhanai%2Fsocial-media-usage-and-emotional-well-being%2Fversions%2F1%3Fresource%3Ddownload&SSORegistrationToken=CfDJ8E2Q1d-RsbJJgqYMf1tS3xICwQ6HiENqiXQDS2PEgnpN2WWI23NZ73Ss7yNxY2UzNJSlZyscT-N1NUzNmpG5I8q7wycYQ8z9_WfaXi9zx4dsp0sE0LBA3oi7fGhnakty9e0XEAKVLabrX6djx0rZhs5UGpZ3XLALivANy_9Txz54lJgDyooVNxGTvSJa3OE-UHO6ipizEDL544wfxNKlxTAPKQ24Tv9bQbDEOz_Ai6fWNf0PniMtzKex3IajueFp9SLLnjn62cwHSECA1w_bp5P1HcspflXPA-TPVl9nomLL64ruHbPSVWdfdooAzibQFLasjnpNnk9XnoA8BhRuJwkzJX81ahJWBg&DisplayName=Srishti+VERMA))
+- `Emotional_State_and_Social_Media.ipynb`: Full code for model building, evaluation, and visualization
+- `Beyond_Posts_and_Likes.pdf`: Final research paper
+- 
 
 ##  Citation
 If you use this project, please cite:  
-**Verma, Srishti.** *"Emotion Classification from Social Media Usage: A Supervised Machine Learning Study."* (2025)
+**Verma, Srishti.** *"Beyond Posts and Likes: Predicting Emotions from Social Media Usage with Supervised Machine Learning"* (2025)
 
 ## Contact
-Made with 💡 by [Srishti Verma](mailto:verma.srishtee@gmail.com)
-
+Made by  [Srishti Verma](mailto:verma.srishtee@gmail.com)
